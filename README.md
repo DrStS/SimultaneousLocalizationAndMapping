@@ -27,8 +27,8 @@ All of the starting code and resources you'll need to compete this project are i
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
-git clone https://github.com/udacity/P3_Implement_SLAM.git
-cd P3_Implement_SLAM
+git clone https://github.com/DrStS/SimultaneousLocalizationAndMapping.git
+cd SimultaneousLocalizationAndMapping
 ```
 
 2. Create (and activate) a new environment, named `cv-nd` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
